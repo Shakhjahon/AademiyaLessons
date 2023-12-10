@@ -18,7 +18,7 @@ fun carFakeDates() = listOf(
     CarModel(
         carName = "BMW",
         carModel = "m5 F90",
-        carImage = "https://s.auto.drom.ru/i24212/c/photos/fullsize/bmw/m5/gen144x2_bmw_m5_749012.jpg",
+        carImage = "https://a.d-cd.net/s0fExNALNXfSwvcG71gM1NTc0Ak-1920.jpg",
         carSpeed = 250,
     ),
     CarModel(
